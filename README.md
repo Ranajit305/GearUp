@@ -25,12 +25,12 @@ GearUp is a modern web application built with the MERN stack that allows users t
 
 ## 📂 Folder Structure
 
-project-root/
-├── backend/ # Express API with routes, models, and controllers
-├── frontend/ # React app (Vite)
-│ ├── components/
-│ ├── pages/
-│ └── store/
-├── .env # Environment variables
-├── README.md
-└── ...
+- project-root/
+- ├── backend/ # Express API with routes, models, and controllers
+- ├── frontend/ # React app (Vite)
+- │ ├── components/
+- │ ├── pages/
+- │ └── store/
+- ├── .env # Environment variables
+- ├── README.md
+- └── ...
