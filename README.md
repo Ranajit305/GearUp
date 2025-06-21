@@ -76,5 +76,3 @@ Start the frontend app:
 
 sameSite: 'None',
 secure: true
-
----
